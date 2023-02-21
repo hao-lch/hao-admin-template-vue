@@ -1,0 +1,16 @@
+$headerHeight: 60px;
+
+$asideBgColor: #424243;
+$headerBgColor: #262727;
+$fontColor: #E5EAF3;
+$fontActiveColor: #E6A23C;
+
+// aside
+// $logoBgColor: $headerBgColor;
+$logoBgColor: rgba(38, 39, 39, 0.8);
+$logoHeight: $headerHeight;
+
+// header
+$asideControllerLength: 24px;
+$asideControllerIconColor: #E5EAF3;
+$avatarLength: calc($headerHeight / 1.6);
